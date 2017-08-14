@@ -1,5 +1,7 @@
 # informatica feminale
 
+![informatica feminale logo](informatica-logo.png)
+
 > Welcome to Open Source!
 
 📅 August 14-16, 2017  
