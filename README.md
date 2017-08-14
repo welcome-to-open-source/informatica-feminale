@@ -13,6 +13,7 @@
 - Maroel 
 - Selina :)
 
+- dummy entry from the command line
 ## Prepared Open Source Issues
 
 ## License
