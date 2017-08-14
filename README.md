@@ -3,6 +3,8 @@
 > Welcome to Open Source!
 
 📅 August 14-16, 2017
+📍 Bremen, University
+🎫 [https://www.informatica-feminale.de/re/en/registration.php](registration page)
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
