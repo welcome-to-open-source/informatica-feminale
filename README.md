@@ -10,7 +10,7 @@
 - Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
 - Frederieke ([GitHub](https://github.com/frefell))
-- Maroel 
+- Maroel (Partcipant)
 - Selina :)
 
 ## Prepared Open Source Issues
