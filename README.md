@@ -11,6 +11,7 @@
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel 
+- Selina :)
 
 ## Prepared Open Source Issues
 
