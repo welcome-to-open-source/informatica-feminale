@@ -6,6 +6,7 @@
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
+- N. Geisler (Participant, [GitHub](https://github.com/geislern/))
 - Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal)
 - Frederieke ([GitHub](https://github.com/frefell))
