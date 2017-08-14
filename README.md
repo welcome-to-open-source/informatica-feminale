@@ -6,10 +6,10 @@
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
+- Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal)
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel 
-
 
 ## Prepared Open Source Issues
 
