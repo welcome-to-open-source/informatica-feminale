@@ -6,6 +6,7 @@
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
+- N. Geisler (Participant, [GitHub](https://github.com/geislern/))
 
 
 ## Prepared Open Source Issues
