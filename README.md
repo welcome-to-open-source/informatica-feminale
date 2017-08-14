@@ -6,6 +6,7 @@
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
+- Aylin Çakal ([GitHub](https://github.com/aylincakal)
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel 
 
