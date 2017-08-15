@@ -27,6 +27,7 @@
 - NodeJS: https://github.com/nodejs/node/labels/good%20first%20contribution
 - Rails Girls Summer of Code: https://github.com/rails-girls-summer-of-code/summer-of-code/issues
 - if me: https://github.com/julianguyen/ifme/issues?q=is%3Aissue+is%3Aopen+label%3Anewbiefriendly
+- Google Earth Enterprise: https://github.com/google/earthenterprise/issues/178
 
 ## License
 
