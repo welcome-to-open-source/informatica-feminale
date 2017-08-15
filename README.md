@@ -16,6 +16,7 @@
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel (Partcipant)
 - Selina :)
+- Marie
 
 ## Prepared Open Source Issues
 - Hoodie Camp: https://github.com/hoodiehq/camp/issues/125
@@ -32,6 +33,7 @@
 -- it's about a project with a website, easy to fix, in Ruby
 - if me: https://github.com/julianguyen/ifme/issues?q=is%3Aissue+is%3Aopen+label%3Anewbiefriendly
 -- WebApp dedicated to medical help issues
+- Google Earth Enterprise: https://github.com/google/earthenterprise/issues/178
 
 ## License
 
