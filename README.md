@@ -16,6 +16,7 @@
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel (Partcipant)
 - Selina :)
+- Marie
 
 ## Prepared Open Source Issues
 - Hoodie Camp: https://github.com/hoodiehq/camp/issues/125
