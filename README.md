@@ -36,6 +36,10 @@
 - Google Earth Enterprise: https://github.com/google/earthenterprise/issues/178
   - shows our planet
 
+## Links and resources
+- [Contributing to a project through Github web interface](https://github.com/WGBH/pbucore/wiki/Contributing-to-the-project-through-Github-web-interface)
+- [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+
 ## License
 
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
