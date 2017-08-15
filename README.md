@@ -19,6 +19,7 @@
 
 ## Prepared Open Source Issues
 - Hoodie Camp: https://github.com/hoodiehq/camp/issues/125
+-- it's about stuff for people from informatica feminale
 - AMPhtml: https://github.com/ampproject/amphtml/labels/Great%20First%20Issue ([help](https://bit.ly/helpamp-new))
 - NodeSchool: https://github.com/workshopper/learn-sass/issues/60
 - PyBee: https://github.com/search?q=user%3Apybee+label%3Afirst-timers-only+is%3Aopen&type=Issues
@@ -26,6 +27,7 @@
 - Yarn: https://github.com/yarnpkg/website/issues/594
 - NodeJS: https://github.com/nodejs/node/labels/good%20first%20contribution
 - Rails Girls Summer of Code: https://github.com/rails-girls-summer-of-code/summer-of-code/issues
+-- it's about...
 - if me: https://github.com/julianguyen/ifme/issues?q=is%3Aissue+is%3Aopen+label%3Anewbiefriendly
 
 ## License
