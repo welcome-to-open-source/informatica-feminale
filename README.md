@@ -15,6 +15,7 @@
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
 - Frederieke ([GitHub](https://github.com/frefell))
 - Maroel (Partcipant)
+  - (https://github.com/workshopper/learn-sass/pull/61)
 - Selina :)
 - Marie
 
