@@ -18,6 +18,7 @@
   - done with commits for [learn-sass](https://github.com/workshopper/learn-sass)
   - only one mistake so far, created new file in master instead of my branch
   - wondering what's the next step...
+  - (https://github.com/workshopper/learn-sass/pull/61)
 - Selina :)
 - Marie
 
