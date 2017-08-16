@@ -13,7 +13,7 @@
 - N. Geisler (Participant, [GitHub](https://github.com/geislern/))
 - Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
-- Frederieke ([GitHub](https://github.com/frefell), [PUll Request RGoS](https://github.com/rails-girls-summer-of-code/summer-of-code/pull/404))
+- Frederieke ([GitHub](https://github.com/frefell), [Pull Request RGoS](https://github.com/rails-girls-summer-of-code/summer-of-code/pull/404))
 - Maroel (Partcipant)
 - Selina :)
 - Marie
