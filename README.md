@@ -13,7 +13,7 @@
 - N. Geisler (Participant, [GitHub](https://github.com/geislern/))
 - Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
-- Frederieke ([GitHub](https://github.com/frefell))
+- Frederieke ([GitHub](https://github.com/frefell), [Pull Request RGoS](https://github.com/rails-girls-summer-of-code/summer-of-code/pull/404))
 - Maroel (Partcipant)
   - done with commits for [learn-sass](https://github.com/workshopper/learn-sass)
   - only one mistake so far, created new file in master instead of my branch
