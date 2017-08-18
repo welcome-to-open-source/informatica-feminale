@@ -10,7 +10,7 @@
 
 ## Participants
 - Katharina Hößel (Host, [GitHub](https://github.com/katsel))
-- N. Geisler (Participant, [GitHub](https://github.com/geislern/))
+- N. Geisler (Participant, [GitHub](https://github.com/geislern/), [PR first-timers-only-bot](https://github.com/musically-ut/first-timers-only-bot/pull/3))
 - Carolin Ibelshäuser (Participant, [GitHub](https://github.com/Caro-Lin))
 - Aylin Çakal ([GitHub](https://github.com/aylincakal))
 - Frederieke ([GitHub](https://github.com/frefell), [Pull Request RGoS](https://github.com/rails-girls-summer-of-code/summer-of-code/pull/404))
